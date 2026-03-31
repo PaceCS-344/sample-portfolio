@@ -9,8 +9,12 @@
     "eject": "react-scripts eject"
   },
   "dependencies": {
+    "@popperjs/core": "^2.11.8",
+    "bootstrap": "^5.3.8",
     "react": "^19.2.4",
+    "react-bootstrap": "^2.10.10",
     "react-dom": "^19.2.4",
+    "react-router": "^7.13.1",
     "react-scripts": "^5.0.1"
   },
   "browserslist": {
@@ -24,5 +28,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^6.3.0"
   }
 }
